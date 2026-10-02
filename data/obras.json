@@ -1,0 +1,86 @@
+{
+  "contacto": {
+    "mail": "maxihidalgo04@gmail.com",
+    "redes": [
+      { "nombre": "Instagram", "url": "https://www.instagram.com/maxo.msc" },
+      { "nombre": "TikTok", "url": "https://www.tiktok.com/@maxo.msc" },
+      { "nombre": "Spotify", "url": "https://open.spotify.com/artist/1pbAUyH9dGdsSkOc0sTHS3" },
+      { "nombre": "YouTube", "url": "próximamente" }
+    ]
+  },
+
+  "disco": {
+    "titulo": "PIEZAS",
+    "tipo": "EP",
+    "estado": "en proceso"
+  },
+
+  "canciones": [
+    {
+      "id": "sin-rumbo",
+      "titulo": "Sin Rumbo",
+      "estado": "publicada",
+      "artistas": "Maxo, Snail Lake",
+      "fecha": "2026-08-05",
+      "duracion": "2:17",
+      "bpm": 100,
+      "portada": "img/obras/sin-rumbo.webp",
+      "portadaAlt": "Portada de Sin Rumbo: una pieza de rompecabezas blanca y agrietada que flota en un cielo nocturno con estrellas.",
+      "piezaDeLaPortada": true,
+      "creditos": [
+        { "rol": "Voz", "nombre": "Maxo" },
+        { "rol": "Letra y música", "nombre": "Maxo" },
+        { "rol": "Producción", "nombre": "Snail Lake" },
+        { "rol": "Mezcla y master", "nombre": "Snail Lake" }
+      ],
+      "letra": "",
+      "spotify": "https://open.spotify.com/track/7vWkbXa5Xs8Xri9aPsJfjq",
+      "appleMusic": "https://music.apple.com/ar/album/sin-rumbo/6793595445?i=6793595448",
+      "youtubeMusic": "https://music.youtube.com/watch?v=aaWyygDfzFs",
+      "youtube": ""
+    },
+    {
+      "id": "madrugada",
+      "titulo": "Madrugada",
+      "estado": "proximamente",
+      "nota": "Trap más pesado."
+    },
+    {
+      "id": "boleto",
+      "titulo": "Boleto",
+      "estado": "proximamente",
+      "nota": "Bolero tropical, tranquilo y luminoso."
+    }
+  ],
+
+  "peliculas": [
+    {
+      "id": "fanatico",
+      "titulo": "FANATICO",
+      "formato": "Cortometraje",
+      "anio": "2025",
+      "direccion": "Federico Villarino",
+      "personaje": "Diego, el protagonista",
+      "sinopsis": "Diego, un joven solitario, se obsesiona con una streamer llamada Betty. Cuando ella anuncia su compromiso, su admiración se transforma en una peligrosa obsesión y, convencido de que debe “salvarla de su prometido”, Diego cruza el límite entre la fantasía digital y la realidad, desatando consecuencias irreversibles.",
+      "nota": "Proyecto final de Lenguaje Audiovisual 2, Universidad Nacional de Lanús.",
+      "video": "https://www.youtube.com/watch?v=F4h4YLPtbQI",
+      "videoEs": "completo",
+      "fotograma": "img/peliculas/fanatico.webp",
+      "fotogramaAlt": "Afiche de FANATICO: un rostro tramado en azul con el título en rojo tapándole los ojos."
+    },
+    {
+      "id": "liberando-tu-proposito",
+      "titulo": "LIBERANDO TU PROPÓSITO",
+      "formato": "Cortometraje",
+      "anio": "2023",
+      "direccion": "",
+      "personaje": "",
+      "sinopsis": "Un corto sobre la depresión, las adicciones y la ansiedad en la generación Z.",
+      "nota": "Producción de Emuba X.",
+      "video": "https://www.youtube.com/watch?v=i4unoPN5-Og&t=66s",
+      "videoEs": "completo",
+      "fotograma": "img/peliculas/liberando-tu-proposito.webp",
+      "fotogramaAlt": "Fotograma de LIBERANDO TU PROPÓSITO: un chico con gorra, de perfil, junto a una pared al sol."
+    }
+  ]
+}

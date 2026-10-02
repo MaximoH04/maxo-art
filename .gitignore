@@ -1,0 +1,9 @@
+# bocetos de dirección: quedan en tu compu, no van a la web
+_bocetos/
+
+# configuración del editor en esta compu
+.vscode/
+
+.DS_Store
+Thumbs.db
+desktop.ini
